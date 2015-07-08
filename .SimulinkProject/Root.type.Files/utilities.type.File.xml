@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <Category UUID="ReviewCategory">
+        <Label UUID="toReview" />
+    </Category>
+    <Category UUID="FileClassCategory">
+        <Label UUID="none" />
+    </Category>
+</Info>

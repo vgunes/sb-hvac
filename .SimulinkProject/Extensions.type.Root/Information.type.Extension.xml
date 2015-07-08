@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info description="This project represents thermal modeling of a smart building where temperature sensors are deployed. The faults for temperature sensors are injected to the model. The aim is to see the effect of sensor faults on oevrall energy consumption of heater and on thermal confort in the building.  " />

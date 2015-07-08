@@ -1,0 +1,18 @@
+##########################################
+### Instructions to run the simulation ###
+##########################################
+
+1) Load SmartBuilding.prj within MATLAB Environment. This will add the project folders to the MATLAB Path.
+
+2) Run smartBuildingGUI.m script.
+
+3) Set "Number of the rooms" to 3 and "Configuration" to 3000 for perfect sensor conditions, then click "Run".
+
+4) Click help button for other configurations and their definition.
+
+5) You can change physical system properties as you wish.
+
+6) Results will be located in /Data/results
+
+7) You can use plotTool for plotting the results. Within the plotTool, double-click "SimOut.mat" file. This will allow the simulation variables to be loaded into base workspace.
+Then while you are pressing "Ctrl" button, select axisX and variable that you wish to plot.

@@ -1,0 +1,15 @@
+
+thermalBuilding3000 represents 3 room with perfect sensor conditions.
+
+thermalBuilding3110 represents 3 room having single-sample-spike fault with positive spike without mitigation being applied.
+thermalBuilding3111 represents 3 room having single-sample-spike fault with positive spike with mitigation being applied.
+thermalBuilding3120 represents 3 room having single-sample-spike fault with negative spike without mitigation being applied.
+thermalBuilding3121 represents 3 room having single-sample-spike fault with negative spike with mitigation being applied.
+
+thermalBuilding3210 represents 3 room having spike-and-stay fault with positive spike without mitigation being applied.
+thermalBuilding3211 represents 3 room having spike-and-stay fault with positive spike with mitigation being applied.
+thermalBuilding3220 represents 3 room having spike-and-stay fault with negative spike without mitigation being applied.
+thermalBuilding3221 represents 3 room having spike-and-stay fault with negative spike with mitigation being applied.
+
+thermalBuilding3310 represents 3 room having stuck-at fault without mitigation being applied.
+thermalBuilding3311 represents 3 room having stuck-at fault with positive spike with mitigation being applied.
